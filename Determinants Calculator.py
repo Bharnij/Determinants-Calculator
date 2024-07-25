@@ -3,7 +3,7 @@ from prettytable import PrettyTable
 
 print("Welcome to the determinants calculator!")
 
-matrix_type = int(input("What is the type of determinant? Type '2' for a 2x2 determinant and '3' for a 3x3 determinant"))
+matrix_type = int(input("What is the type of determinant? Type '2' for a 2x2 determinant and '3' for a 3x3 determinant --> "))
 
 if matrix_type == 2:
 
